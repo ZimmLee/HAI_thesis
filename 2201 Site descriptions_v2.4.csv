@@ -1,0 +1,13 @@
+﻿Trt,Site ID,Site,Lat/Long,Zip,have data,adjacent,proxy,Zipcode,Description
+SLF+ToH,SLF Echo Lane Soybean,SELS,39.203784 -78.193256,22603,no,22602,22602,22602,"Woodlot with mature ToH and other hardwoods, surrounded by row crops and fruit orchards"
+SLF+ToH,SLF Landfill North/Stream,SLNS,39.145949 -78.093058,22602,yes,"22603, 22655",none,22602,"Woodlot with mature ToH and other hardwoods and conifers, near stream and water recycling ponds"
+SLF+ToH,SLF Artrip South,SAS,39.111133 -78.164955,22655,yes,22602,none,22655,Tree island with mature ToH in cow pasture near stream
+SLF+ToH,SLF Landfill South/ Cherry Tree,SLSC,39.134738 -78.099324,22602,yes,,none,22602,Large woodlot with mature ToH and other hardwoods abutting regularly mowed field and clearcut landfill operations
+ToH Only,ToH Yankauer,TY,39.496562 -77.852030,25404,no,25443,25425,25425,"Mature ToH and other hardwoods and conifers, in forested nature preserve property abutting mowed field, Yankauer Nature Preserve"
+ToH Only,ToH Sleepy Creek South,TSCS,39.417571 -78.214447,25411,yes,25427,none,25411,Isolated stand of mature ToH on ridgeline surrounded by deciduous forest in Sleepy Creek Wildlife Management Area
+ToH Only,ToH Atwood Dr,TAD,39.410517 -78.115383,25420,no,25427,25411,25411,Residential woodlot with mature ToH and other hardwoods and conifers
+ToH Only,ToH Shannondale Springs South,TSSS,39.186330 -77.817306,25425,yes,25443,none,25425,"Stand of mature ToH surrounded by forest, abutting a clearing"
+Negative,Negative Sleepy Creek South,NSCS,39.425237 -78.210125,25411,yes,25427,none,25411,Deciduous forest on ridgeline in Sleepy Creek Wildlife Management Area
+Negative,Negative NCTC,NCTC,39.479208 -77.805003,25443,no,25425,25425,25425,Woodlot bordering open fields and forest restoration plantings at National Conservation Training Center
+Negative,Negative Shannondale Springs North,NSSN,39.224118 -77.828760,25425,yes,25443,none,25425,Mixed forest abutting meadow in Shannondale Springs Wildlife Management Area
+Negative,Negative Sleepy Creek North,NSCN,39.481686 -78.161243,25427,no,"25420, 25411",25411,25411,"Forest, with understory/canopy of wild grapes, slightly marshy ground"
